@@ -1,0 +1,9 @@
+## Interface: 40000
+## Title: |cffC495DDTukui|r Auto Button
+## Notes: Automatic buttons for iventory and equiptment items
+## Author: Sweeper
+## Credits: Elv22, Degilion
+## Version: 1.0
+## RequiredDeps: Tukui
+
+core.lua
